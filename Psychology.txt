@@ -1,0 +1,24 @@
+2️⃣ Psychology / Coding / Logical Reasoning
+
+✅ Coding / Alphabet Patterns
+
+Pattern 1: +1 Letter
+Example: CAT → DBU
+
+Pattern 2: Alphabet position + addition
+Example: CAT → 24 → C = 3, A = 1, T = 20 → 3 + 1 + 20=24
+DOG → 26
+
+Pattern 3: Alphabet position + combine
+Example: CAT → 3120 → C = 3, A = 1, T = 20 → 3 1 20 → 3120
+DOG → 4157
+
+✅ Number Series / Math Pattern
+
+Example: 3, 9, 27, 81 → ×3 each step
+Mixed series: 2, 6, 7, 21, 22, 66 → ×3, +1, ×3, +1…
+
+✅ Analogies / Odd - One - Out
+
+Pen: Write:: Knife: Cut
+Cow: Milk:: Bee: Honey
