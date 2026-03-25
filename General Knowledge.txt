@@ -24,7 +24,17 @@
 * Vitamin K → Blood clotting
 
 ✅ Miscellaneous
-
+ 
 * National Animal → Tiger
 * National Flower → Lotus
 * First Citizen → President
+
+* 🇮🇳 Head of State (India) → President
+* Head of Government → Prime Minister
+* State Head → Governor
+* State Government Head → Chief Minister
+* Appointments
+* PM → Appointed by President
+* Governor → Appointed by President
+* CM → Appointed by Governor
+* Supreme Commander → President
